@@ -266,27 +266,31 @@
       position: relative;
     }
     .hero-bottle-scene {
-      position: relative; width: 320px; height: 420px;
+      position: relative; width: 300px; height: 480px;
     }
     .bottle-glow {
-      position: absolute; top: 50%; left: 50%;
-      transform: translate(-50%,-50%);
-      width: 280px; height: 280px; border-radius: 50%;
-      background: radial-gradient(circle, rgba(217,70,239,.3), transparent 70%);
+      position: absolute; bottom: 0; left: 50%;
+      transform: translateX(-50%);
+      width: 200px; height: 80px; border-radius: 50%;
+      background: radial-gradient(ellipse, rgba(124,58,237,.35), transparent 70%);
+      filter: blur(18px);
       animation: glowPulse 3s ease-in-out infinite;
     }
     @keyframes glowPulse {
-      0%, 100% { transform: translate(-50%,-50%) scale(1); opacity: .8; }
-      50% { transform: translate(-50%,-50%) scale(1.2); opacity: .4; }
+      0%, 100% { opacity: .8; transform: translateX(-50%) scale(1); }
+      50% { opacity: .4; transform: translateX(-50%) scale(1.15); }
     }
-    .bottle-svg {
-      position: absolute; top: 50%; left: 50%;
-      transform: translate(-50%,-50%);
+    .bottle-img {
+      position: absolute; top: 0; left: 50%;
+      transform: translateX(-50%);
+      height: 460px; width: auto;
+      object-fit: contain;
+      filter: drop-shadow(0 24px 48px rgba(124,58,237,.28));
       animation: bottleFloat 4s ease-in-out infinite alternate;
     }
     @keyframes bottleFloat {
-      from { transform: translate(-50%,-50%) translateY(-10px); }
-      to   { transform: translate(-50%,-50%) translateY(10px); }
+      from { transform: translateX(-50%) translateY(-8px); }
+      to   { transform: translateX(-50%) translateY(8px); }
     }
 
     /* Floating badges around bottle */
@@ -683,7 +687,8 @@
       .footer-top { grid-template-columns: 1fr; gap: 2rem; }
       .footer-bottom { flex-direction: column; gap: 1rem; text-align: center; }
       .form-row { grid-template-columns: 1fr; }
-      .hero-bottle-scene { width: 240px; height: 320px; }
+      .hero-bottle-scene { width: 200px; height: 340px; }
+      .bottle-img { height: 320px; }
       .badge-1, .badge-2, .badge-3 { display: none; }
     }
   </style>
@@ -812,58 +817,8 @@
         <div class="hero-bottle-scene">
           <div class="bottle-glow"></div>
 
-          <!-- Animated SVG bottle -->
-          <div class="bottle-svg">
-            <svg width="180" height="340" viewBox="0 0 180 340" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <defs>
-                <linearGradient id="bottleGrad" x1="0" y1="0" x2="1" y2="1">
-                  <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.15"/>
-                  <stop offset="100%" stop-color="#D946EF" stop-opacity="0.15"/>
-                </linearGradient>
-                <linearGradient id="labelGrad" x1="0" y1="0" x2="1" y2="1">
-                  <stop offset="0%" stop-color="#7C3AED"/>
-                  <stop offset="100%" stop-color="#D946EF"/>
-                </linearGradient>
-                <linearGradient id="capGrad" x1="0" y1="0" x2="0" y2="1">
-                  <stop offset="0%" stop-color="#A78BFA"/>
-                  <stop offset="100%" stop-color="#7C3AED"/>
-                </linearGradient>
-                <filter id="bottleShadow">
-                  <feDropShadow dx="0" dy="12" stdDeviation="20" flood-color="#7C3AED" flood-opacity="0.3"/>
-                </filter>
-              </defs>
-
-              <!-- Bottle body shadow -->
-              <ellipse cx="90" cy="330" rx="50" ry="8" fill="url(#labelGrad)" opacity="0.2"/>
-
-              <!-- Bottle body -->
-              <path d="M55 80 C50 80 38 90 36 110 L30 290 C29 305 40 320 55 322 L125 322 C140 320 151 305 150 290 L144 110 C142 90 130 80 125 80 Z" fill="white" stroke="rgba(124,58,237,0.2)" stroke-width="1.5" filter="url(#bottleShadow)"/>
-
-              <!-- Bottle highlight -->
-              <path d="M58 90 C54 90 45 98 44 115 L38 285 C37.5 298 46 310 58 312" stroke="white" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
-
-              <!-- Label background -->
-              <rect x="36" y="140" width="108" height="130" rx="4" fill="url(#labelGrad)" opacity="0.1"/>
-              <rect x="36" y="140" width="108" height="130" rx="4" fill="none" stroke="url(#labelGrad)" stroke-width="1"/>
-
-              <!-- Label content — mini logo -->
-              <text x="90" y="195" text-anchor="middle" fill="url(#labelGrad)" font-size="22" font-weight="900" font-family="Poppins, sans-serif">elma</text>
-              <text x="90" y="213" text-anchor="middle" fill="#9CA3AF" font-size="8" font-family="Poppins, sans-serif" letter-spacing="1">defines purity</text>
-
-              <!-- Water level inside bottle -->
-              <path d="M37 250 C60 240 120 255 143 245 L150 290 C151 305 140 320 125 322 L55 322 C40 320 29 305 30 290 Z" fill="url(#bottleGrad)"/>
-
-              <!-- Water ripple -->
-              <ellipse cx="90" cy="248" rx="52" ry="6" fill="url(#labelGrad)" opacity="0.15"/>
-
-              <!-- Neck -->
-              <rect x="68" y="48" width="44" height="34" rx="6" fill="white" stroke="rgba(124,58,237,0.2)" stroke-width="1.5"/>
-
-              <!-- Cap -->
-              <rect x="64" y="28" width="52" height="26" rx="10" fill="url(#capGrad)"/>
-              <rect x="68" y="33" width="44" height="4" rx="2" fill="rgba(255,255,255,0.3)"/>
-            </svg>
-          </div>
+          <!-- Real product mockup photo -->
+          <img class="bottle-img" src="bottle-mockup.jpg" alt="Custom labelled water bottle — Elma product sample" />
 
           <!-- Floating badges -->
           <div class="badge-float badge-1">
