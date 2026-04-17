@@ -348,6 +348,96 @@
     }
 
     /* ──────────────────────────────────────────────
+       BRANDS WE'VE BOTTLED GALLERY
+    ────────────────────────────────────────────── */
+    .gallery-section {
+      padding: 5rem 0;
+      background: var(--bg);
+    }
+    .gallery-header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+    .gallery-header .section-eyebrow {
+      display: inline-flex; align-items: center; gap: .5rem;
+      background: var(--grad-soft); color: var(--purple);
+      padding: .35rem 1rem; border-radius: 2rem;
+      font-size: .78rem; font-weight: 700; letter-spacing: .06em;
+      text-transform: uppercase; margin-bottom: 1rem;
+    }
+    .gallery-header h2 {
+      font-size: clamp(1.8rem, 4vw, 2.8rem);
+      font-weight: 800; color: var(--text); line-height: 1.2;
+    }
+    .gallery-header h2 span { background: var(--grad); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+    .gallery-header p {
+      margin-top: .75rem; color: var(--text-muted);
+      font-size: 1rem; max-width: 520px; margin-left: auto; margin-right: auto;
+    }
+    .gallery-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1.25rem;
+    }
+    .gallery-card {
+      position: relative;
+      border-radius: 1.25rem;
+      overflow: hidden;
+      background: #f3f0ff;
+      aspect-ratio: 9/16;
+      cursor: pointer;
+      box-shadow: 0 4px 24px rgba(124,58,237,.08);
+      transition: transform .35s ease, box-shadow .35s ease;
+    }
+    .gallery-card:hover {
+      transform: translateY(-8px) scale(1.02);
+      box-shadow: 0 20px 60px rgba(124,58,237,.22);
+    }
+    .gallery-card img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+      transition: transform .5s ease;
+    }
+    .gallery-card:hover img { transform: scale(1.05); }
+    .gallery-card-overlay {
+      position: absolute; inset: 0;
+      background: linear-gradient(to top, rgba(13,8,32,.75) 0%, transparent 55%);
+      opacity: 0;
+      transition: opacity .35s ease;
+      display: flex; align-items: flex-end;
+      padding: 1.25rem;
+    }
+    .gallery-card:hover .gallery-card-overlay { opacity: 1; }
+    .gallery-card-name {
+      color: white; font-size: .9rem; font-weight: 700;
+      line-height: 1.3;
+    }
+    .gallery-card-type {
+      color: rgba(255,255,255,.7); font-size: .75rem; margin-top: .2rem;
+    }
+    /* Featured card (Tara) spans 2 rows */
+    .gallery-card.featured {
+      grid-row: span 2;
+      aspect-ratio: auto;
+    }
+    .gallery-cta {
+      text-align: center;
+      margin-top: 2.5rem;
+    }
+    .gallery-cta p {
+      color: var(--text-muted); font-size: .95rem; margin-bottom: 1.25rem;
+    }
+    @media (max-width: 1024px) {
+      .gallery-grid { grid-template-columns: repeat(3, 1fr); }
+      .gallery-card.featured { grid-row: span 1; aspect-ratio: 9/16; }
+    }
+    @media (max-width: 640px) {
+      .gallery-grid { grid-template-columns: repeat(2, 1fr); gap: .75rem; }
+    }
+
+    /* ──────────────────────────────────────────────
        STATS
     ────────────────────────────────────────────── */
     .stats-section {
@@ -865,6 +955,117 @@
     </div>
   </div>
 </div>
+
+
+<!-- ═══════════════════════════════════════════════
+  BRANDS WE'VE BOTTLED
+══════════════════════════════════════════════════ -->
+<section class="gallery-section" id="portfolio">
+  <div class="container">
+    <div class="gallery-header reveal">
+      <div class="section-eyebrow">Our Work</div>
+      <h2>Brands We've <span>Bottled</span></h2>
+      <p>Every label is custom-designed for the brand. Here's a sample of what we've built for our clients.</p>
+    </div>
+
+    <div class="gallery-grid reveal">
+
+      <!-- Featured: Tara (tallest, most artistic) -->
+      <div class="gallery-card featured">
+        <img src="clients/tara.jpg" alt="Tara South Indian Kitchen custom water bottle" loading="lazy" />
+        <div class="gallery-card-overlay">
+          <div>
+            <div class="gallery-card-name">Tara South Indian Kitchen</div>
+            <div class="gallery-card-type">Restaurant · 500 ml</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Raj Darbar -->
+      <div class="gallery-card">
+        <img src="clients/raj-darbar.jpg" alt="Raj Darbar custom water bottle" loading="lazy" />
+        <div class="gallery-card-overlay">
+          <div>
+            <div class="gallery-card-name">Raj Darbar</div>
+            <div class="gallery-card-type">Family Restaurant · 1000 ml</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Bratt Café -->
+      <div class="gallery-card">
+        <img src="clients/bratt-cafe.jpg" alt="Bratt Café custom water bottle" loading="lazy" />
+        <div class="gallery-card-overlay">
+          <div>
+            <div class="gallery-card-name">Bratt Café</div>
+            <div class="gallery-card-type">Café · 500 ml</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Paddle Theory -->
+      <div class="gallery-card">
+        <img src="clients/paddle-theory.jpg" alt="Paddle Theory custom water bottle" loading="lazy" />
+        <div class="gallery-card-overlay">
+          <div>
+            <div class="gallery-card-name">Paddle Theory</div>
+            <div class="gallery-card-type">Café · 500 ml</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Biryanis and More -->
+      <div class="gallery-card">
+        <img src="clients/biryanis-and-more.jpg" alt="Biryanis and More custom water bottle" loading="lazy" />
+        <div class="gallery-card-overlay">
+          <div>
+            <div class="gallery-card-name">Biryanis and More</div>
+            <div class="gallery-card-type">Multi Cuisine · 1000 ml</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- House Party -->
+      <div class="gallery-card">
+        <img src="clients/house-party.jpg" alt="House Party Bar and Kitchen custom water bottle" loading="lazy" />
+        <div class="gallery-card-overlay">
+          <div>
+            <div class="gallery-card-name">House Party</div>
+            <div class="gallery-card-type">Bar & Kitchen · 750 ml</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Platform 65 -->
+      <div class="gallery-card">
+        <img src="clients/platform-65.jpg" alt="Platform 65 custom water bottle" loading="lazy" />
+        <div class="gallery-card-overlay">
+          <div>
+            <div class="gallery-card-name">Platform 65</div>
+            <div class="gallery-card-type">The Train Restaurant · 1000 ml</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Jubilee Festa Inn -->
+      <div class="gallery-card">
+        <img src="clients/jubilee-festa-inn.jpg" alt="Jubilee Festa Inn custom water bottle" loading="lazy" />
+        <div class="gallery-card-overlay">
+          <div>
+            <div class="gallery-card-name">Jubilee Festa Inn</div>
+            <div class="gallery-card-type">Hotel · 500 ml</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="gallery-cta reveal">
+      <p>Want your brand on a bottle? We'll design it, print it, and deliver it.</p>
+      <a href="https://wa.me/919642917777?text=Hi%20Elma%2C%20I%20want%20to%20get%20custom%20labelled%20water%20bottles%20for%20my%20brand." class="btn-primary" target="_blank" rel="noopener">Get Your Custom Bottle →</a>
+    </div>
+  </div>
+</section>
 
 
 <!-- ═══════════════════════════════════════════════
