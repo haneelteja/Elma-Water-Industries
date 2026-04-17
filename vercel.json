@@ -1,0 +1,6 @@
+{
+  "root": "elma-website",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
