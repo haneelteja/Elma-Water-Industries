@@ -12,7 +12,7 @@
 | **Category (secondary)** | Beverage Supplier |
 | **Address** | Cherlapally, Hyderabad, Telangana 500051 |
 | **Phone** | +91 96429 17777 |
-| **Website** | https://elmawaterindustries.com |
+| **Website** | https://elmawaterindustries.in |
 | **Opening hours** | Mon–Sat: 9:00 AM – 7:00 PM |
 
 ---
@@ -26,7 +26,7 @@ Trusted by 45+ brands including Biryanis and More, Gismat Jail Mandi, and Thange
 Whether you run a restaurant, cloud kitchen, hotel, or are planning a wedding — we make your water bottle carry your brand.
 
 📞 WhatsApp us: +91 96429 17777
-🌐 elmawaterindustries.com
+🌐 elmawaterindustries.in
 
 ---
 
@@ -89,6 +89,6 @@ A: Yes. All our PET bottles are food-grade and safe for drinking water.
 - [ ] Add all services and products
 - [ ] Upload minimum 5 photos
 - [ ] Pre-populate Q&A
-- [ ] Connect website: elmawaterindustries.com
+- [ ] Connect website: elmawaterindustries.in
 - [ ] Submit sitemap to Google Search Console
 - [ ] Ask 3–5 existing clients to leave a Google review

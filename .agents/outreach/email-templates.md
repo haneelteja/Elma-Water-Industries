@@ -33,7 +33,7 @@ Best,
 Haneel Teja Nalluru
 Elma Industries, Hyderabad
 +91 96429 17777
-elmawaterindustries.com
+elmawaterindustries.in
 ```
 
 ---
@@ -55,7 +55,7 @@ Would you be open to a 5-minute call or a sample case?
 
 Haneel Teja Nalluru
 Elma Industries | +91 96429 17777
-elmawaterindustries.com
+elmawaterindustries.in
 ```
 
 ---
@@ -81,7 +81,7 @@ Can we set up a quick call?
 
 Haneel Teja Nalluru
 Elma Industries | +91 96429 17777
-elmawaterindustries.com
+elmawaterindustries.in
 ```
 
 ---
@@ -107,7 +107,7 @@ Want to see samples or get a quick quote?
 
 Haneel Teja Nalluru
 Elma Industries | +91 96429 17777
-elmawaterindustries.com
+elmawaterindustries.in
 ```
 
 ---
@@ -131,7 +131,7 @@ Would this be useful for any upcoming events you're handling?
 
 Haneel Teja Nalluru
 Elma Industries | +91 96429 17777
-elmawaterindustries.com
+elmawaterindustries.in
 ```
 
 ---
@@ -167,7 +167,7 @@ Last follow-up from my end — I don't want to clutter your inbox.
 
 If custom-labelled water bottles for [Business Name] ever becomes relevant, we're here.
 
-Elma Industries, Hyderabad | +91 96429 17777 | elmawaterindustries.com
+Elma Industries, Hyderabad | +91 96429 17777 | elmawaterindustries.in
 
 — Haneel
 ```

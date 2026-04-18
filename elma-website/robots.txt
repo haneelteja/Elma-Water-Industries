@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://elmawaterindustries.com/sitemap.xml
+Sitemap: https://elmawaterindustries.in/sitemap.xml

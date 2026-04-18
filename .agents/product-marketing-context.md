@@ -14,7 +14,7 @@
 - **Category:** Customized PET water bottles with branded labels (B2B bulk + individual custom)
 - **Product type:** Physical product — PET bottles with custom-printed labels
 - **Pricing:** [TODO — add per-case pricing for bulk, and per-unit for individual custom]
-- **Website:** elmawaterindustries.com (in development)
+- **Website:** elmawaterindustries.in (in development)
 - **Location:** Elma Industries, Cherlapally, Hyderabad
 - **Stage:** Scaling — 5,000 cases/month, 45 active clients
 - **Brand colors:** Purple (#7C3AED) to Pink (#D946EF) gradient; light lavender background

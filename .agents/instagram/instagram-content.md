@@ -24,7 +24,7 @@ Custom labels · Reliable delivery · Bulk orders
 👇 Get a free sample → Link in bio
 ```
 
-**Link in bio:** https://elmawaterindustries.com
+**Link in bio:** https://elmawaterindustries.in
 
 ---
 
@@ -69,7 +69,7 @@ Every bottle that leaves your kitchen, your hotel room, your event — carries y
 
 That's the Elma difference.
 
-📲 Get your custom label: +91 96429 17777 | elmawaterindustries.com
+📲 Get your custom label: +91 96429 17777 | elmawaterindustries.in
 
 #CustomLabel #WaterBottleDesign #HyderabadBrands #ElmaWater #DefinesPurity
 ```
@@ -165,7 +165,7 @@ A [Client Name] bottle doing what it was made to do — sitting on the table, ca
 
 Tag us if you spot an Elma bottle in your city. We love to see our work out there.
 
-📍 Hyderabad | elmawaterindustries.com
+📍 Hyderabad | elmawaterindustries.in
 
 #ElmaInTheWild #HyderabadEats #BrandedWater #SpottedInHyderabad
 ```
