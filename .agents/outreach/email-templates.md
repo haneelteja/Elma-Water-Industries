@@ -27,12 +27,12 @@ What we offer:
 
 We'd love to send you a sample case so you can see the quality for yourself — no commitment.
 
-Interested? Just reply to this email or WhatsApp us at +91 96429 17777.
+Interested? Just reply to this email or WhatsApp us at +91 63090 60777.
 
 Best,
 Haneel Teja Nalluru
 Elma Industries, Hyderabad
-+91 96429 17777
++91 63090 60777
 elmawaterindustries.in
 ```
 
@@ -54,7 +54,7 @@ We handle everything — label design, production, delivery. Consistent supply, 
 Would you be open to a 5-minute call or a sample case?
 
 Haneel Teja Nalluru
-Elma Industries | +91 96429 17777
+Elma Industries | +91 63090 60777
 elmawaterindustries.in
 ```
 
@@ -80,7 +80,7 @@ We currently supply 45+ clients across Hyderabad with consistent quality and rel
 Can we set up a quick call?
 
 Haneel Teja Nalluru
-Elma Industries | +91 96429 17777
+Elma Industries | +91 63090 60777
 elmawaterindustries.in
 ```
 
@@ -106,7 +106,7 @@ Fast delivery, sharp label quality, competitive pricing for bulk orders.
 Want to see samples or get a quick quote?
 
 Haneel Teja Nalluru
-Elma Industries | +91 96429 17777
+Elma Industries | +91 63090 60777
 elmawaterindustries.in
 ```
 
@@ -130,7 +130,7 @@ It's a simple upsell to add to your catering packages, and we make it easy — d
 Would this be useful for any upcoming events you're handling?
 
 Haneel Teja Nalluru
-Elma Industries | +91 96429 17777
+Elma Industries | +91 63090 60777
 elmawaterindustries.in
 ```
 
@@ -151,7 +151,7 @@ Happy to send a sample case to [Restaurant/Business Name] so you can see the qua
 
 Worth a try?
 
-— Haneel, Elma | +91 96429 17777
+— Haneel, Elma | +91 63090 60777
 ```
 
 ---
@@ -167,7 +167,7 @@ Last follow-up from my end — I don't want to clutter your inbox.
 
 If custom-labelled water bottles for [Business Name] ever becomes relevant, we're here.
 
-Elma Industries, Hyderabad | +91 96429 17777 | elmawaterindustries.in
+Elma Industries, Hyderabad | +91 63090 60777 | elmawaterindustries.in
 
 — Haneel
 ```

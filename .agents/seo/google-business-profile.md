@@ -11,7 +11,7 @@
 | **Category (primary)** | Water Supplier |
 | **Category (secondary)** | Beverage Supplier |
 | **Address** | Cherlapally, Hyderabad, Telangana 500051 |
-| **Phone** | +91 96429 17777 |
+| **Phone** | +91 63090 60777 |
 | **Website** | https://elmawaterindustries.in |
 | **Opening hours** | Mon–Sat: 9:00 AM – 7:00 PM |
 
@@ -25,7 +25,7 @@ Trusted by 45+ brands including Biryanis and More, Gismat Jail Mandi, and Thange
 
 Whether you run a restaurant, cloud kitchen, hotel, or are planning a wedding — we make your water bottle carry your brand.
 
-📞 WhatsApp us: +91 96429 17777
+📞 WhatsApp us: +91 63090 60777
 🌐 elmawaterindustries.in
 
 ---
@@ -56,7 +56,7 @@ Whether you run a restaurant, cloud kitchen, hotel, or are planning a wedding �
 ## Q&A to Pre-populate
 
 **Q: What is the minimum order quantity?**
-A: For bulk B2B orders we work with restaurants and food businesses — WhatsApp us at +91 96429 17777 for a quote tailored to your volume.
+A: For bulk B2B orders we work with restaurants and food businesses — WhatsApp us at +91 63090 60777 for a quote tailored to your volume.
 
 **Q: Do you deliver across Hyderabad?**
 A: Yes, we deliver across Hyderabad and surrounding areas. Fast, reliable delivery is one of our core commitments.

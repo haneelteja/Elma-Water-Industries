@@ -52,7 +52,7 @@ Custom label. Sharp print. Delivered on time.
 
 This is what branded water looks like for a business that takes its identity seriously.
 
-📲 Want your brand on your water bottle? WhatsApp us: +91 96429 17777
+📲 Want your brand on your water bottle? WhatsApp us: +91 63090 60777
 
 #ElmaIndustries #CustomWaterBottles #HyderabadRestaurants #BrandedWater #[ClientCity]
 ```
@@ -69,7 +69,7 @@ Every bottle that leaves your kitchen, your hotel room, your event — carries y
 
 That's the Elma difference.
 
-📲 Get your custom label: +91 96429 17777 | elmawaterindustries.in
+📲 Get your custom label: +91 63090 60777 | elmawaterindustries.in
 
 #CustomLabel #WaterBottleDesign #HyderabadBrands #ElmaWater #DefinesPurity
 ```
@@ -101,7 +101,7 @@ Reliable supply is not a bonus — it's the baseline. We've never missed a deliv
 
 45+ clients across Hyderabad trust us with their monthly supply. Yours could be next.
 
-📲 WhatsApp: +91 96429 17777
+📲 WhatsApp: +91 63090 60777
 
 #ReliableDelivery #HyderabadBusiness #ElmaWater #BulkWaterBottles #CustomLabelledBottles
 ```
@@ -118,7 +118,7 @@ Custom-labelled water bottles are one of the lowest-cost, highest-visibility bra
 
 Your logo. Your tagline. On every table. Every day.
 
-📲 Elma Industries, Hyderabad | +91 96429 17777
+📲 Elma Industries, Hyderabad | +91 63090 60777
 
 #RestaurantMarketing #HyderabadRestaurants #BrandedWater #FoodBusiness #RestaurantTips
 ```
@@ -135,7 +135,7 @@ A small detail that guests remember long after the celebration.
 
 We do bulk orders for weddings, receptions and corporate events across Hyderabad.
 
-📲 WhatsApp us to discuss your event: +91 96429 17777
+📲 WhatsApp us to discuss your event: +91 63090 60777
 
 #WeddingWaterBottles #PersonalisedBottles #HyderabadWeddings #CustomBottles #WeddingSeason
 ```
@@ -150,7 +150,7 @@ From Biryanis and More to Gismat Jail Mandi to Thangedu — Hyderabad's restaura
 
 We're not the biggest. But we might be the most reliable.
 
-Growing our family — DM or WhatsApp to join: +91 96429 17777
+Growing our family — DM or WhatsApp to join: +91 63090 60777
 
 #45Brands #ElmaFamily #HyderabadFood #CustomWaterBottles #ElmaIndustries
 ```

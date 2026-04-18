@@ -15,7 +15,7 @@ Just checking in — are you running low on bottles? Based on your usual order, 
 
 Let me know your quantity and I'll get it moving right away.
 
-— Haneel | Elma | +91 96429 17777
+— Haneel | Elma | +91 63090 60777
 ```
 
 ---
@@ -30,7 +30,7 @@ Want to get your water bottle reorder in early so you're fully stocked before th
 
 Just send me your quantity and preferred delivery date.
 
-— Haneel, Elma | +91 96429 17777
+— Haneel, Elma | +91 63090 60777
 ```
 
 ---
@@ -62,7 +62,7 @@ If you're handling events or seeing higher footfall, let us know — we can incr
 
 Also — if any event planners or wedding caterers need personalised bottles, happy to extend our rates for anyone you refer.
 
-— Haneel | Elma | +91 96429 17777
+— Haneel | Elma | +91 63090 60777
 ```
 
 ---
@@ -92,7 +92,7 @@ Iftar gatherings and late-night dining mean higher volumes this month. Want to i
 
 Let me know and I'll sort it immediately.
 
-— Haneel | Elma Industries | +91 96429 17777
+— Haneel | Elma Industries | +91 63090 60777
 ```
 
 ---
@@ -131,7 +131,7 @@ As a thank you, I'll give you ₹500 off your next reorder when they place their
 
 No pressure at all — just thought I'd ask!
 
-— Haneel, Elma | +91 96429 17777
+— Haneel, Elma | +91 63090 60777
 ```
 
 ---
@@ -165,7 +165,7 @@ We can handle the full design process. No extra hassle on your end.
 
 Interested? Let's talk.
 
-— Haneel | Elma | +91 96429 17777
+— Haneel | Elma | +91 63090 60777
 ```
 
 ---

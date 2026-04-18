@@ -18,7 +18,7 @@ We already work with Biryanis and More, Gismat Jail Mandi, Thangedu and 42 other
 
 Would you be open to a quick call or a sample case?
 
-— Haneel | Elma | +91 96429 17777
+— Haneel | Elma | +91 63090 60777
 ```
 
 ---
@@ -52,7 +52,7 @@ We currently serve 45+ clients in and around Hyderabad. Bulk pricing, consistent
 
 Can I share more details or send a sample?
 
-— Haneel | +91 96429 17777
+— Haneel | +91 63090 60777
 ```
 
 ---
@@ -86,7 +86,7 @@ Great add-on to offer your catering clients. Bulk-friendly pricing.
 
 Are you handling any upcoming events where this could work?
 
-— Haneel | +91 96429 17777
+— Haneel | +91 63090 60777
 ```
 
 ---
@@ -112,7 +112,7 @@ Hi [Name],
 
 Last follow-up from my end.
 
-If branded water bottles for [Restaurant Name] ever becomes a priority, we're here — +91 96429 17777.
+If branded water bottles for [Restaurant Name] ever becomes a priority, we're here — +91 63090 60777.
 
 We deliver across Hyderabad, fast turnaround, 45+ happy clients.
 
