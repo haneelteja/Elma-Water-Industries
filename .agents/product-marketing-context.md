@@ -36,7 +36,7 @@
 ### Current client examples
 
 - Biryanis and More
-- Gimsta
+- Gismat Jail Mandi
 - Jismat
 - Thangedu
 - (45 active clients total, in and around Hyderabad)
