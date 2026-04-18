@@ -10,7 +10,7 @@
 
 **Image Prompt (ChatGPT):**
 ```
-Premium product photography of a 1000ml transparent PET water bottle. The label has a warm golden-amber gradient background (deep orange at top fading to light gold at bottom). At the center of the label is an ornate floral mandala logo with brown, dark gold, and orange petals radiating from a white center. Below the logo, the text "Biryanis®" in large dark brown serif font, then "and more..!" in orange italic script, then "Multi Cuisine" with decorative horizontal lines. Bottom of label shows location names in small white text. Clean white studio background, soft water droplets on the bottle, subtle shadow at the base. Commercial product photography, Instagram portrait format (4:5).
+Product photo of a 1000ml PET water bottle. Label: warm golden-amber gradient, ornate floral mandala logo in brown and gold at center, "Biryanis®" in dark brown serif font, "and more..!" in orange italic, "Multi Cuisine" in decorative text below. White studio background, water droplets on bottle, soft shadow at base. Commercial product photography, 4:5 portrait.
 ```
 
 **Caption:**
@@ -42,7 +42,7 @@ WhatsApp us: +91 63090 60777
 
 **Image Prompt (ChatGPT):**
 ```
-Extreme close-up product photography of a water bottle label. The label has a warm golden-amber gradient background. At the center is an ornate floral mandala logo with brown, dark gold, and orange petals. Below it, "Biryanis®" in large dark brown serif font, "and more..!" in orange italic script, "Multi Cuisine" with decorative lines. Soft studio lighting, shallow depth of field, slightly blurred bottle edges, sharp focus on label. Premium feel. Instagram portrait format (4:5).
+Close-up product photo of a water bottle label. Warm golden-amber gradient background, ornate floral mandala logo in brown and gold, "Biryanis®" in dark brown serif font, "and more..!" in orange italic script, "Multi Cuisine" in decorative text. Soft studio lighting, shallow depth of field, sharp focus on label. Premium feel, 4:5 portrait.
 ```
 
 **Caption:**
@@ -74,7 +74,7 @@ That's the Elma difference.
 
 **Image Prompt (ChatGPT):**
 ```
-Top-down flat lay photography of a restaurant dining table. A branded water bottle is placed next to a plate of biryani. The water bottle has a warm golden label with "Biryanis and More" branding. Wooden table surface, clean setting, warm lighting. Instagram square or portrait format.
+Flat lay photo of a restaurant dining table. A branded water bottle with a warm golden "Biryanis and More" label next to a plate of biryani. Wooden table, warm lighting, clean setting. Commercial photography, 4:5 portrait.
 ```
 
 **Caption:**
@@ -138,7 +138,7 @@ Every custom-labelled bottle that reaches your restaurant goes through our quali
 
 **Image Prompt (ChatGPT):**
 ```
-Premium product photography of a 500ml transparent PET water bottle. The label has a jet black background with ornate gold mandala arch patterns at the top and bottom edges. In the upper center, "SPECIALLY PACKED FOR" in small gold capital letters. Below, "Gismat" in large decorative gold calligraphic font, then "Jail Mandi" in decorative gold script. Below that, "Our Locations" in gold, then "ANDHRA PRADESH · TELANGANA · BANGALORE" in white text. Clean white or dark studio background, water droplets on the bottle, premium lighting with gold reflections. Commercial product photography, Instagram portrait format (4:5).
+Product photo of a 500ml PET water bottle. Label: jet black background, ornate gold mandala arch patterns at top and bottom, "SPECIALLY PACKED FOR" in small gold caps, "Gismat" in large decorative gold calligraphic font, "Jail Mandi" in gold script below. Dark studio background, water droplets on bottle, gold light reflections. Commercial photography, 4:5 portrait.
 ```
 
 **Caption:**
@@ -169,7 +169,7 @@ Custom label by Elma Industries. Delivered reliably, every month.
 
 **Image Prompt (ChatGPT):**
 ```
-Extreme close-up product photography of a water bottle label. Jet black background with ornate gold mandala arch patterns at top and bottom. "SPECIALLY PACKED FOR" in small gold capital letters. "Gismat" in large decorative gold calligraphic font. "Jail Mandi" in decorative gold script below. Dramatic studio lighting that makes the gold shimmer against the black. Shallow depth of field, sharp focus on label text. Luxury product photography feel. Instagram portrait format (4:5).
+Close-up of a water bottle label. Jet black background, ornate gold mandala arch patterns at top and bottom, "Gismat" in large decorative gold calligraphic font, "Jail Mandi" in gold script below. Dramatic studio lighting with gold shimmer. Shallow depth of field, sharp label focus. Luxury product photography, 4:5 portrait.
 ```
 
 **Caption:**
@@ -200,7 +200,7 @@ Gismat Jail Mandi. Custom label by Elma Industries.
 
 **Image Prompt (ChatGPT):**
 ```
-Split image product photography. Left side: a plain generic white water bottle with no label. Right side: a premium branded water bottle with an elegant custom label. Clean white background. Arrow or dividing line in the center. Text overlay at top: "Generic vs. Branded". Commercial photography style, Instagram portrait format.
+Split product photo. Left: plain generic white water bottle, no label. Right: premium PET water bottle with elegant custom label. Clean white background, vertical dividing line at center. Text overlay: "Generic vs. Branded". Commercial photography, 4:5 portrait.
 ```
 
 **Caption:**
