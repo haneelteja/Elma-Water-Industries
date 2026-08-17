@@ -649,58 +649,6 @@
     .why-text { color: var(--text-muted); line-height: 1.7; font-size: .95rem; }
 
     /* ──────────────────────────────────────────────
-       PRODUCTS
-    ────────────────────────────────────────────── */
-    .products-section { background: linear-gradient(135deg, #F5F3FF, #FAF5FF); }
-    .products-grid {
-      display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem;
-      margin-top: 3.5rem;
-    }
-    .product-card {
-      border-radius: 1.5rem; overflow: hidden;
-      background: white;
-      box-shadow: 0 8px 32px rgba(124,58,237,.1);
-      border: 1px solid rgba(124,58,237,.1);
-      transition: transform .3s, box-shadow .3s;
-    }
-    .product-card:hover { transform: translateY(-6px); box-shadow: var(--shadow); }
-    .product-card-header {
-      padding: 2.5rem 2.5rem 1.5rem;
-      background: var(--grad);
-      position: relative; overflow: hidden;
-    }
-    .product-card-header::after {
-      content: '';
-      position: absolute; bottom: -40px; right: -40px;
-      width: 150px; height: 150px; border-radius: 50%;
-      background: rgba(255,255,255,.1);
-    }
-    .product-badge {
-      display: inline-block;
-      background: rgba(255,255,255,.2);
-      color: white; font-size: .7rem; font-weight: 700;
-      padding: .3rem .8rem; border-radius: 50px;
-      text-transform: uppercase; letter-spacing: .08em;
-      margin-bottom: 1rem;
-    }
-    .product-name { font-size: 1.8rem; font-weight: 800; color: white; line-height: 1.2; }
-    .product-body { padding: 2rem 2.5rem; }
-    .product-desc { color: var(--text-muted); line-height: 1.7; margin-bottom: 1.5rem; }
-    .product-features li {
-      display: flex; align-items: center; gap: .75rem;
-      padding: .5rem 0;
-      font-size: .9rem; color: var(--text);
-      border-bottom: 1px solid rgba(0,0,0,.05);
-    }
-    .product-features li:last-child { border-bottom: none; }
-    .feature-check {
-      width: 22px; height: 22px; flex-shrink: 0; border-radius: 50%;
-      background: var(--grad-soft);
-      display: flex; align-items: center; justify-content: center;
-      font-size: .7rem; color: var(--purple);
-    }
-
-    /* ──────────────────────────────────────────────
        PROCESS
     ────────────────────────────────────────────── */
     .process-steps {
@@ -1060,7 +1008,7 @@
       <!-- Desktop Links -->
       <div class="nav-links">
         <a href="#why">Why Elma</a>
-        <a href="#products">Products</a>
+        <a href="#portfolio">Our Work</a>
         <a href="#process">How it Works</a>
         <a href="#contact">Contact</a>
       </div>
@@ -1085,7 +1033,7 @@
 <div class="mobile-menu" id="mobileMenu">
   <span class="mobile-close" id="mobileClose">✕</span>
   <a href="#why" class="mobile-link">Why Elma</a>
-  <a href="#products" class="mobile-link">Products</a>
+  <a href="#portfolio" class="mobile-link">Our Work</a>
   <a href="#process" class="mobile-link">How it Works</a>
   <a href="#contact" class="mobile-link">Contact</a>
   <a href="https://wa.me/916309060777?text=Hi%20Elma!%20I%27m%20interested%20in%20custom%20labelled%20water%20bottles." class="btn btn-whatsapp" target="_blank" rel="noopener">
@@ -1339,72 +1287,6 @@
         <div class="why-icon">📍</div>
         <h3 class="why-title">Local. Accountable. Fast.</h3>
         <p class="why-text">We're based in Cherlapally, Hyderabad. When you call, a real person answers. Reorders are quick. Problems get solved the same day. That's the Elma difference.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-<!-- ═══════════════════════════════════════════════
-  PRODUCTS
-══════════════════════════════════════════════════ -->
-<section class="section products-section" id="products">
-  <div class="container">
-    <div class="text-center reveal">
-      <span class="tag">Our Products</span>
-      <h2 style="font-size:clamp(2rem,4vw,2.8rem); font-weight:800; margin-bottom:1rem;">
-        Custom Bottles for <span class="text-grad">Every Need</span>
-      </h2>
-      <p style="color:var(--text-muted); max-width:520px; margin:0 auto; line-height:1.7;">
-        Whether you're stocking 50 tables or 5,000, we have the right solution for your business.
-      </p>
-    </div>
-
-    <div class="products-grid">
-      <!-- B2B Bulk -->
-      <div class="product-card reveal reveal-delay-1">
-        <div class="product-card-header">
-          <span class="product-badge">Most Popular</span>
-          <div class="product-name">Bulk B2B<br/>Orders</div>
-        </div>
-        <div class="product-body">
-          <p class="product-desc">
-            Perfect for restaurants, hotels, caterers, and food brands. Order by the case with your custom label — consistent quality every time.
-          </p>
-          <ul class="product-features">
-            <li><span class="feature-check">✓</span> PET bottles with full-colour custom label</li>
-            <li><span class="feature-check">✓</span> Flexible case quantities — small to large orders</li>
-            <li><span class="feature-check">✓</span> Dedicated account management</li>
-            <li><span class="feature-check">✓</span> Reliable recurring delivery schedule</li>
-            <li><span class="feature-check">✓</span> Label design support included</li>
-          </ul>
-          <a href="https://wa.me/916309060777?text=Hi%20Elma!%20I%27m%20interested%20in%20bulk%20B2B%20custom%20water%20bottles." class="btn btn-whatsapp" style="margin-top:1.5rem; width:100%; justify-content:center;" target="_blank" rel="noopener">
-            WhatsApp for Bulk Pricing
-          </a>
-        </div>
-      </div>
-
-      <!-- Individual Custom -->
-      <div class="product-card reveal reveal-delay-2">
-        <div class="product-card-header" style="background: linear-gradient(135deg, #D946EF, #7C3AED);">
-          <span class="product-badge">Events & Gifting</span>
-          <div class="product-name">Individual<br/>Custom</div>
-        </div>
-        <div class="product-body">
-          <p class="product-desc">
-            For weddings, birthday parties, corporate events, and personal gifting. Small quantities, fully personalised.
-          </p>
-          <ul class="product-features">
-            <li><span class="feature-check">✓</span> Custom label with your name, event, or design</li>
-            <li><span class="feature-check">✓</span> Low minimum order quantity</li>
-            <li><span class="feature-check">✓</span> Perfect for weddings & celebrations</li>
-            <li><span class="feature-check">✓</span> Great for corporate gifting & events</li>
-            <li><span class="feature-check">✓</span> Fast turnaround for occasions</li>
-          </ul>
-          <a href="https://wa.me/916309060777?text=Hi%20Elma!%20I%27m%20interested%20in%20custom%20personalised%20water%20bottles%20for%20an%20event." class="btn btn-primary" style="margin-top:1.5rem; width:100%; justify-content:center;" target="_blank" rel="noopener">
-            WhatsApp to Order
-          </a>
-        </div>
       </div>
     </div>
   </div>
@@ -1666,7 +1548,7 @@
         <div class="footer-col-title">Quick Links</div>
         <ul class="footer-links">
           <li><a href="#why">Why Elma</a></li>
-          <li><a href="#products">Products</a></li>
+          <li><a href="#portfolio">Our Work</a></li>
           <li><a href="#process">How It Works</a></li>
           <li><a href="#certifications">Certifications</a></li>
           <li><a href="#contact">Contact</a></li>
