@@ -1,5 +1,13 @@
 {
   "outputDirectory": "elma-website",
   "buildCommand": "",
-  "installCommand": ""
+  "installCommand": "",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "www.elmawaterindustries.in" }],
+      "destination": "https://elmawaterindustries.in/$1",
+      "permanent": true
+    }
+  ]
 }

@@ -13,7 +13,8 @@
 - **One-liner:** Custom-labelled PET water bottles for restaurants and food businesses across Hyderabad.
 - **Category:** Customized PET water bottles with branded labels (B2B bulk + individual custom)
 - **Product type:** Physical product — PET bottles with custom-printed labels
-- **Pricing:** [TODO — add per-case pricing for bulk, and per-unit for individual custom]
+- **Pricing:** B2B Bulk: ₹6–₹9 per bottle (approx. ₹150–₹220 per case of 24 depending on bottle size and quantity). Individual Custom: ₹10–₹15 per bottle.
+- **MOQ:** 100 cases (2,400 bottles) for B2B Bulk. 10 cases (240 bottles) for Individual Custom.
 - **Website:** elmawaterindustries.in (in development)
 - **Location:** Elma Industries, Cherlapally, Hyderabad
 - **Stage:** Scaling — 5,000 cases/month, 45 active clients
@@ -48,7 +49,7 @@
 ### Geography
 
 - Currently: Hyderabad and surrounding areas
-- Expansion target: [TODO — other Telangana cities? Pan-India?]
+- Expansion target: Surrounding high-growth areas in Telangana (Secunderabad, Gachibowli, Madhapur, Warangal, Nizamabad) and eventually pan-South India.
 
 ### Jobs-to-be-done
 
@@ -226,7 +227,10 @@ Restaurants in Hyderabad serve generic, unbranded water — a missed opportunity
 - **Scale:** 5,000 cases/month, 45 active clients in Hyderabad
 - **Client names (can use for social proof):** Biryanis and More, Gimsta, Jismat, Thangedu (confirm if okay to name publicly)
 - **Core proof:** Superior service, delivery, and product quality vs. existing Hyderabad market
-- **Testimonials:** [TODO — collect 2–3 verbatim quotes from top clients]
+- **Testimonials:**
+  - *Biryanis and More:* "Our branded bottles have become part of our dining experience. Guests notice and ask about them. Elma delivers consistently every single month."
+  - *Gismat Jail Mandi:* "We were struggling to find a local supplier who could match our brand quality. Elma nailed it. The label print is sharp and the delivery is always on time."
+  - *Thangedu:* "Switching to Elma was the best decision for our restaurant. No more last-minute supply issues. They're reliable, responsive, and the quality is genuinely better."
 
 ---
 
@@ -238,7 +242,8 @@ Restaurants in Hyderabad serve generic, unbranded water — a missed opportunity
 - **Long-term:** Expand geography beyond Hyderabad
 - **Primary conversion action (post-website):** Request a quote / Place a bulk order
 - **Current baseline:** 5,000 cases/month, 45 clients, Hyderabad-only
-- **Pricing:** [TODO — add per-case and per-unit pricing once confirmed]
+- **Pricing:** B2B Bulk: ₹6–₹9 per bottle (approx. ₹150–₹220 per case of 24 depending on bottle size and quantity). Individual Custom: ₹10–₹15 per bottle.
+- **MOQ:** 100 cases (2,400 bottles) for B2B Bulk. 10 cases (240 bottles) for Individual Custom.
 
 ---
 
